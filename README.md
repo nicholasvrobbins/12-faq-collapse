@@ -1,6 +1,6 @@
 2022-07-21
 
-Live Demo:
+Live Demo: https://courageous-kulfi-fe7921.netlify.app/
 
 Summary: Following along with Brad and Florin's 50 Projects in 50 Days to better understand JavaScript.
 
