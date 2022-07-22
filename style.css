@@ -31,6 +31,15 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.25rem;
+}
+
+div > p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
 .faq-container {
     max-width: 600px;
     margin: 0 auto;
